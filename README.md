@@ -15,7 +15,7 @@
 
 
 <br/><br/>Fun facts:
-- 🏍  If I'm not coding or eating, I'm either riding or fixing my café racer.
+- 🏍  If I'm not coding or eating, I'm either riding or fixing my café racer
 
 
 ### What I've learned so far..

@@ -3,8 +3,6 @@
 <a href="mailto:joonyc88@gmail.com?subject=GitHub"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 </p>
 
-<br/>[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=88joonyc)](https://github.com/88joonyc/github-readme-stats)
-
 ## Hi, I'm Paul 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oz8xwsGcaZWWB8KyY/giphy.gif" height="300" />

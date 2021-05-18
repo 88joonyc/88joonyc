@@ -9,7 +9,7 @@
 
 - 💻 Currently a Full Stack software engineering student at App Academy
 - 🦾 Learning to code so I can build my own army of terminators
-- 🙏 Always open to collaborate and learn from other awesome developers
+- 🙏 Always open to collaborate and learn from other knowledgable developers
 
 
 <br/><br/>Fun facts:

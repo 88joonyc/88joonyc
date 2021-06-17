@@ -25,10 +25,10 @@
 
 ### Currently learning
 <a href="https://www.npmjs.com/package/express"><img src="https://img.shields.io/badge/-Express.js-000000?logo=Express" /></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL" /></a>
+<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white" /></a>
 <a href="https://sequelize.org/"><img src="https://img.shields.io/badge/-Sequelize-039BE5" /></a>
 <a href="https://www.npmjs.com/"><img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" /></a>
-<a href="https://pugjs.org/api/getting-started.html"><img alt="pug" src="https://img.shields.io/badge/-PUG-%23a86454" /></a>
+<a href="https://pugjs.org/api/getting-started.html"><img alt="pug" src="https://img.shields.io/badge/-PUG-a86454?logo=Pug&logoColor=white" /></a>
 
 
 ### What's next

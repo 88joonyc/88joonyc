@@ -7,9 +7,11 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3oz8xwsGcaZWWB8KyY/giphy.gif" height="300" />
 
-- 💻 Currently a Full Stack software engineering student at App Academy
+- 💻 Seeking a Full-Time opportunity as Software Enigneer
 - 🦾 Learning to code so I can build my own army of terminators
 - 🙏 Always open to collaborate and learn from other knowledgable developers
+
+### links
 
 - Linkedin: https://www.linkedin.com/in/pchang1216/
 - Website: https://www.paulchang.dev

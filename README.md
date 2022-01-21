@@ -11,6 +11,9 @@
 - 🦾 Learning to code so I can build my own army of terminators
 - 🙏 Always open to collaborate and learn from other knowledgable developers
 
+- Linkedin: https://www.linkedin.com/in/pchang1216/
+- Website: https://www.paulchang.dev
+
 
 <br/><br/>Fun facts:
 - 🏍  If I'm not coding or eating, I'm either riding or fixing my café racer
@@ -31,6 +34,14 @@
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white&" /></a>
 <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/-Redux-764ABC?logo=Redux" /></a>
 <a href="https://flask.palletsprojects.com/en/1.1.x/"><img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white" /></a>
+
+## Recommended Reading
+
+- Good to Great - Jim Collins
+- Never Split the Difference - Chris Voss
+- Can't Hurt Me - David Goggins
+- The Four Agreements - Don Miguel Ruiz
+
 
 <!-- ### What's next 
 
